@@ -1,0 +1,1 @@
+This repository has been created to be a focal point for my progression in various languages.
