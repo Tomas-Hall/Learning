@@ -11,4 +11,4 @@ function Push-BottleOff($bottles) {
     Push-BottleOff($bottles)
     return
 }
-Push-BottleOff -bottles 3
+Push-BottleOff -bottles 100
